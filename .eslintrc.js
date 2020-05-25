@@ -25,5 +25,6 @@ module.exports = {
     '@typescript-eslint/camelcase': 'off',
     'class-methods-use-this': 'off',
     'no-underscore-dangle': 'off',
+    '@typescript-eslint/explicit-module-boundary-types': 'off'
   },
 };
