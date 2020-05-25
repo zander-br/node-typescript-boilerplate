@@ -20,7 +20,7 @@
     "url": "git+https://github.com/zander-br/node-typescript-boilerplate.git"
   },
   "keywords": ["node.js", "typescript", "eslint", "jest"],
-  "author": "",
+  "author": "Anderson Santos",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zander-br/node-typescript-boilerplate/issues"
