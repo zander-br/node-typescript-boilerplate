@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/zander-br/node-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/zander-br/node-typescript-boilerplate#readme"
+  "homepage": "https://github.com/zander-br/node-typescript-boilerplate#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.2"
+  }
 }
