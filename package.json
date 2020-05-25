@@ -1,7 +1,7 @@
 {
   "name": "node-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Template Node.js back-end with TypeScript",
   "main": "index.js",
   "scripts": {
     "start": "node dist/src/index.js",
@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/zander-br/node-typescript-boilerplate.git"
   },
-  "keywords": [],
+  "keywords": ["node.js", "typescript", "eslint", "jest"],
   "author": "",
   "license": "MIT",
   "bugs": {
